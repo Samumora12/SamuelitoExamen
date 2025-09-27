@@ -1,4 +1,4 @@
-package com.example.parcial2;
+package modelos;
 
 @Entity
 @Table(name = "detalles_cine")
