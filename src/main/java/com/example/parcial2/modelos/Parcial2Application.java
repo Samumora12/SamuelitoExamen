@@ -1,4 +1,4 @@
-package modelos;
+package com.example.parcial2.modelos;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
